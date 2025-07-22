@@ -1,7 +1,5 @@
 # Hi 👋 I’m Elijah Waldron
 
-![Elijah Waldron headshot](./ew453@scarletmail.rutgers.edu-1dff7c57\ copy.jpg)
-
 **Aspiring Software Engineer • Hardware & Java Enthusiast**  
 Based in Union, NJ – tinkering with smart devices, data visualizations, and machine learning.
 
