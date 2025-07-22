@@ -1,7 +1,7 @@
-# Hi 👋 I’m Elijah Waldron
+# Hi I’m Elijah Waldron
 
 Software Engineer • Data Scientist   
-Based in Union, NJ – Leveraging todays surpluss tools to build and predict the future!
+Based in Union, NJ – Leveraging todays surplus of tools to build and predict the future!
 
 ---
 
