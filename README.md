@@ -1,31 +1,24 @@
 # Hi I’m Elijah Waldron
 
-Software Engineer • Data Scientist   
-Based in Union, NJ – Leveraging todays surplus of tools to build and predict the future!
+Data Scientist - Data engineer - AI Engineer  
+Based in Union, NJ 
 
 ---
 
-## 🔭 What I’m Working On
+ What I’m Working On
+	•	SQL Learning AI Platform – building an interactive platform that helps users learn SQL through hands on practice, guided problem solving, and AI supported explanations and feedback.
+	•	NBA ETL Pipeline – developing a data pipeline that collects, cleans, stores, and analyzes NBA related data for exploration, reporting, and future analytics use cases.
+	•	MLB ETL Project – building an ETL workflow to extract MLB game data daily(Github Actions) from ESPN, transform it into structured formats, and load it into a database on Neon(Postgres) for API use, querying,  and downstream analysis.
+	•	Pico Notes – creating a photo and media focused note taking app centered around visual organization, rich content embedding, and a more flexible bookmarking experience.
 
-- **Occupancy‑Aware Smart Light** – hardware-enabled smart lighting system using Java  
-- **MTA Visualizer** – interactive visualization of transit/ridership data  
-- **Salary Cap Visualizer** – modeling NBA player salaries and “money‑ball” analytics and stacked bar graphs. 
-- **Anomaly Detection (Kaggle)** – credit card fraud detection and segmentation using machine learning.  
-- **Pico Notes** – Photo and media focused note‑taking app. Visual Bookmarker.
+⸻
 
----
+Currently Exploring
+	•	Connecting AI powered tools and interactive learning experiences
+	•	ETL pipeline design, automation, and data modeling
+	•	Sports data engineering and analytics workflows
+	•	Product design and rich media app experiences
 
-## 🌱 Currently Exploring
-
-- Hardware integration using Java  
-- Machine learning solutions and anomaly detection  
-- Contributing to open-source UI tools and frameworks
-
----
-
-## 💬 Ask Me About
-
-Java programming & hardware interfaces • Data visualization & interactive tools • Basic ML & anomaly detection • Full-stack  apps & user auth • Open-source collaboration
 
 ---
 <h3 align="left">Languages and Tools:</h3>
