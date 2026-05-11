@@ -1,6 +1,6 @@
 # Hi I’m Elijah Waldron
 
-Data Scientist - Data engineer - AI Engineer  
+Software Engineer - Data engineer - AI Engineer  
 Based in Union, NJ 
 
 ## What I’m Working On
