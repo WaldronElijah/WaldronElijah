@@ -5,27 +5,45 @@ Based in Union, NJ
 
 ## What I’m Working On
 
-### SQL Learning AI Platform
-- Building an interactive platform that helps users learn SQL through hands on practice
-- Adding guided problem solving with AI supported explanations and feedback
-- Focusing on making SQL learning more conversational and interactive
+### Projects
+PdfChunker
+Local Python CLI for analyzing and summarizing PDF files with changeable model support.
 
-### NBA ETL Pipeline
-- Developing a data pipeline that collects, cleans, stores, and analyzes NBA related data
-- Using the pipeline for exploration, reporting, and future analytics use cases
-- Building a foundation for scalable sports data workflows
+- Built for local document analysis workflows
+- Supports summarization across PDF content
+- Designed to make model selection flexible
+Repository: WaldronElijah/PdfChunker
 
-### MLB ETL Project
-- Building an ETL workflow that extracts MLB game data daily from ESPN
-- Automating daily runs with GitHub Actions
-- Transforming raw data into structured formats
-- Loading the data into a Neon Postgres database
-- Supporting API use, querying, and downstream analysis
+### HealthcareKnowledgeChatbot
+Retrieval-augmented generation chatbot built on scraped healthcare knowledge data.
 
-### Pico Notes
-- Creating a photo and media focused note taking app
-- Centering the product around visual organization and rich content embedding
-- Building a more flexible bookmarking and media management experience
+- Uses healthcare-focused source data for question answering
+- Applies RAG patterns to ground responses in retrieved context
+- Built as an AI project focused on useful healthcare knowledge access
+Repository: WaldronElijah/HealthcareKnowledgeChatbot
+
+### MLBETL
+Backend API and ETL pipeline for MLB season data.
+
+- Extracts, transforms, and structures baseball data
+- Supports querying and downstream analysis
+- Built as a foundation for sports-data workflows and API use
+Repository: WaldronElijah/MLBETL
+
+### PicoNotes
+Startup-focused note taking product for capturing ideas, organizing context, and moving faster.
+
+- Centers notes around visual organization and rich content
+- Explores a more flexible bookmarking and media management experience
+- Built as an early product/startup experiment
+Repository: WaldronElijah/PicoNotes
+
+### NBA ETL
+Visualization and data pipeline project for NBA data, built around the Nba-Hub repository.
+
+- Collects and organizes NBA-related data
+- Supports reporting, exploration, and future analytics use cases
+- Builds a foundation for scalable basketball data workflows
 
 ---
 
