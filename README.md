@@ -6,9 +6,8 @@ Based in Union, NJ
 ## What I’m Working On
 
 ### Projects
-PdfChunker
+### PdfChunker
 Local Python CLI for analyzing and summarizing PDF files with changeable model support.
-
 - Built for local document analysis workflows
 - Supports summarization across PDF content
 - Designed to make model selection flexible
@@ -16,7 +15,6 @@ Repository: WaldronElijah/PdfChunker
 
 ### HealthcareKnowledgeChatbot
 Retrieval-augmented generation chatbot built on scraped healthcare knowledge data.
-
 - Uses healthcare-focused source data for question answering
 - Applies RAG patterns to ground responses in retrieved context
 - Built as an AI project focused on useful healthcare knowledge access
@@ -24,7 +22,6 @@ Repository: WaldronElijah/HealthcareKnowledgeChatbot
 
 ### MLBETL
 Backend API and ETL pipeline for MLB season data.
-
 - Extracts, transforms, and structures baseball data
 - Supports querying and downstream analysis
 - Built as a foundation for sports-data workflows and API use
@@ -32,7 +29,6 @@ Repository: WaldronElijah/MLBETL
 
 ### PicoNotes
 Startup-focused note taking product for capturing ideas, organizing context, and moving faster.
-
 - Centers notes around visual organization and rich content
 - Explores a more flexible bookmarking and media management experience
 - Built as an early product/startup experiment
@@ -40,7 +36,6 @@ Repository: WaldronElijah/PicoNotes
 
 ### NBA ETL
 Visualization and data pipeline project for NBA data, built around the Nba-Hub repository.
-
 - Collects and organizes NBA-related data
 - Supports reporting, exploration, and future analytics use cases
 - Builds a foundation for scalable basketball data workflows
